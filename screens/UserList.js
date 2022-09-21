@@ -24,8 +24,8 @@ const UserList = (props) => {
     }
 
     useEffect(() => {
-        
-    querySnapshot()
+
+        querySnapshot()
 
     }, [])
 
